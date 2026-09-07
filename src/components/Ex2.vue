@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-import me from '/assets/me.png'
+
 // Add code here
 const width= ref('200')
 const height= ref ('200')
