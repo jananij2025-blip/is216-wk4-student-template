@@ -2,6 +2,7 @@
 import { ref } from 'vue'
 // Add code here
 // part 1
+
 const id = ref('demo')
 const blueBox = ref(true)
 const blueBtn = ref(true)
