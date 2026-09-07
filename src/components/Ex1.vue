@@ -1,8 +1,6 @@
 <script setup>
 import { ref } from 'vue'
 
-import { ref } from 'vue'
-
 const message = ref('Choose your favorite fruit:')
 
 const fruits = ref(['apple', 'orange', 'peach'])
