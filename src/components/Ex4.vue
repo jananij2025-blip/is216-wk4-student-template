@@ -1,6 +1,5 @@
 <script setup>
 import { ref } from 'vue'
-
 // Add code here
 // part 1
 const id = ref('demo')
